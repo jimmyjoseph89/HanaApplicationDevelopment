@@ -1,1 +1,1 @@
-# HanaApplicationDevelopment
+# HanaApplicationDevelopment - openSAP tutorial
